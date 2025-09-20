@@ -1,0 +1,5 @@
+users_data
+
+login		User1
+E-mail		User1@example.com
+password	User1098765
